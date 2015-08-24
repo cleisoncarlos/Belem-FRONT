@@ -10,7 +10,13 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 
  <p> 
   A origem do "meetup"s está ligada à cultura digital, dos fóruns de discussão e das redes sociais. Assim, os primeiros meetups surgiram com o
-  objetivo de promover o encontro presencial de pessoas que já se conheciam online por meio de fóruns de discussão, redes sociais como o Facebook e o Linkedin.
+  objetivo de promover o encontro presencial de pessoas que já se conheciam online por meio de fóruns de discussão, redes sociais como o Facebook e o Linkedin.<br>
+  
+  
+  Meetup é um encontro informal em que as pessoas conversam de pé, facilitando a circulação e o networking. A ideia vem do Vale do Silício, em que eventos como esse são tão comuns quanto um happy-hour.<br>
+  
+  
+  
   Desta forma, podemos definir meetups como todo encontro físico de
   pessoas que compartilham paixão ou interesse por determinado assunto,
   como empreendedorismo, tecnologia, gastronomia, música etc.
