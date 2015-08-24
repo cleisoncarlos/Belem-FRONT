@@ -4,23 +4,23 @@
 Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir conhecimentos relacionados ao front-end e tecnologias relacionadas. 
 
 É igualmente restritivo a prática de qualquer preconceito em relação a qualquer pessoa que tenha interesse de aprender ou qualquer tecnologia.</p>
-
+<hr>
 
 
 <h3>LINKS  </h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  
+  <hr>
  <h3> MEETUP </h3>
  
  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  
+  <hr>
  <h3> CONTATO COM ADMINISTRADORES</h3>
  
  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
-
+<hr>
 
 <h2>Formato </h2>
   
@@ -32,6 +32,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
   <p>Cada encontro deve ter seu tema decidido previamente pelo grupo, abrindo para sugestões de temas com até uma semana antes do encontro acontecer, e ser decidido em até dois dias antes do mesmo. Para isso, será recomendado uma ferramenta de enquete, para que seja feito algo democrático.
   <h1>
   </p>
+  <hr>
   <p><strong>IMPORTANTE: 
   </h2>
   </strong></p>
