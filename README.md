@@ -6,7 +6,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 É igualmente restritivo a prática de qualquer preconceito em relação a qualquer pessoa que tenha interesse de aprender ou qualquer tecnologia.</p>
 <hr>
 
-<h1>O que é Meetup</h1>
+<h1>O que é Meetup?</h1>
 
  <p> 
   A origem do "meetup"s está ligada à cultura digital, dos fóruns de discussão e das redes sociais. Assim, os primeiros meetups surgiram com o
@@ -22,6 +22,12 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
   como empreendedorismo, tecnologia, gastronomia, música etc.
   Em resumo, meetups servem para reunir comunidades. 
 </p><hr>
+
+<h3>Como contribuir com o Grupo? </h3>
+<p>Para enviar alguma dica, sugestão ou algo do tipo, fique a vontade para abrir uma Issue. </p>
+<p>Para   alterar algo ou corrigir coisas do repositório, faça um Fork, depois   envie um Pull Request. </p>
+<p>Se não manjar nada disso, basta entrar em contato com algum dos organizadores, ou simplesmente teclar com a galera ai numa boa! </p>
+<hr>
 <h3>LINKS  </h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -30,7 +36,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
  
  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <hr>
- <h3> CONTATO COM ADMINISTRADORES</h3>
+ <h3> Contato com os Administradores</h3>
  
  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
