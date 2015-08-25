@@ -54,7 +54,8 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
   
   
   
-    <strong>Encontrando um local </strong>
+    <strong>Encontrando um local</strong>
+    
   <p>Algumas empresas possuem interesse em se tornar visíveis para a comunidade de desenvolvedores, então para ter um local e o evento ser realizado, crie um formulário e envie para pessoas de empresas que possuam salas de reuniões e queiram sediar um ou mais encontros.   
   <p>Para apresentar-se use os dados:
   <p> 
