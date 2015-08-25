@@ -32,10 +32,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <hr>
- <h3> MEETUP </h3>
- 
- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <hr>
+
  <h3> Contato com os Administradores</h3>
  
  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -51,7 +48,37 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
   <p>O encontro deve ter a periodicidade que o grupo decidir necessária, sendo semanal, quinzenal, mensal ou acontecer apenas quando todos os membros chegarem a um acordo.  </p>
   <p><strong>Temas do encontro  </strong></p>
   <p>Cada encontro deve ter seu tema decidido previamente pelo grupo, abrindo para sugestões de temas com até uma semana antes do encontro acontecer, e ser decidido em até dois dias antes do mesmo. Para isso, será recomendado uma ferramenta de enquete, para que seja feito algo democrático.
-  <h1>
+  <p>  
+  
+  
+  
+  
+  
+    <strong>Encontrando um local </strong>
+  <p>Algumas empresas possuem interesse em se tornar visíveis para a comunidade de desenvolvedores, então para ter um local e o evento ser realizado, crie um formulário e envie para pessoas de empresas que possuam salas de reuniões e queiram sediar um ou mais encontros.   
+  <p>Para apresentar-se use os dados:
+  <p> 
+    
+    Qual seu nome? (do contato) 
+    
+  <p>Qual empresa você trabalha? 
+<p>Qual seu e-mail? 
+    
+<p>Qual o site da sua empresa? 
+    
+<p>Quantas pessoas sua sala de reuniões ou auditório comporta? 
+    
+<p>Onde fica sua empresa? (Endereço e referências)
+<p> Tem conexão wi-fi para os participantes? 
+    
+<p>Quais dias da semana você prefere que o encontro seja realizado?
+<p>Em qual horário?  
+    
+<p>* Recomendamos um encontro de duas horas, começando a janela 7pm 
+    
+    
+    
+<h1>
   </p>
   <hr>
   <p><strong>IMPORTANTE: 
