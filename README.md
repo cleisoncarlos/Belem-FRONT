@@ -16,7 +16,6 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
   Meetup é um encontro informal em que as pessoas conversam de pé, facilitando a circulação e o networking. A ideia vem do Vale do Silício, em que eventos como esse são tão comuns quanto um happy-hour.<br>
   
   
-  
   Desta forma, podemos definir meetups como todo encontro físico de
   pessoas que compartilham paixão ou interesse por determinado assunto,
   como empreendedorismo, tecnologia, gastronomia, música etc.
@@ -51,10 +50,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
   <p>  
   
   
-  
-  
-  
-    <strong>Encontrando um local</strong>
+    <h3>Encontrando um local</h3>
     
   <p>Algumas empresas possuem interesse em se tornar visíveis para a comunidade de desenvolvedores, então para ter um local e o evento ser realizado, crie um formulário e envie para pessoas de empresas que possuam salas de reuniões e queiram sediar um ou mais encontros.   
   <p>Para apresentar-se use os dados:
@@ -75,15 +71,8 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
 <p>Quais dias da semana você prefere que o encontro seja realizado?
 <p>Em qual horário?  
     
-<p>* Recomendamos um encontro de duas horas, começando a janela 7pm 
-    
-    
-    
-<h1>
-  </p>
+<p>* Recomendamos um encontro de duas horas, começando a janela 7pm </p>
   <hr>
-  <p><strong>IMPORTANTE: 
-  </h2>
-  </strong></p>
+  <p><h3>IMPORTANTE: </h3></p>
   <p>Este documento é "vivo" e será alterado com frequência. Sendo assim, recomendamos que fique sempre de olho para manter seu grupo sempre atualizado com as normas que visam única e exclusivamente, um encontro saudável para todos os envolvidos.</p>
 
