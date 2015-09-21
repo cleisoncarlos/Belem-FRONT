@@ -37,7 +37,7 @@ Trata-se de um evento para pessoas interessadas em aprender, evoluir e dividir c
  <p><strong>Cleison Carlos</strong></p><hr>
  <p>cleisoncarlos@hotmail.com</p>
  
- <h3 style: color:red;>SE quiser fazer parte entre em contato!!!</h3>
+ <h3>Se quiser fazer parte entre em contato!!!</h3>
 
 
 
